@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f8ff;
+}
+.main {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 6px 18px rgba(0,0,0,0.1);
+}
+.stButton>button {
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    color: white;
+    border-radius: 10px;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    width: 100%;
+}
+.stButton>button:hover {
+    background: linear-gradient(90deg, #0072ff, #00c6ff);
+}
+.dataframe {
+    background: #fafafa;
+    border-radius: 12px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
